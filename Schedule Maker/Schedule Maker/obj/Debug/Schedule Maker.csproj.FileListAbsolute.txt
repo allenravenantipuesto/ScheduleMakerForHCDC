@@ -1,0 +1,45 @@
+D:\Education\Programs\Schedule Maker\Schedule Maker\bin\Debug\Schedule Maker.exe.config
+D:\Education\Programs\Schedule Maker\Schedule Maker\bin\Debug\Schedule Maker.exe
+D:\Education\Programs\Schedule Maker\Schedule Maker\bin\Debug\Schedule Maker.pdb
+D:\Education\Programs\Schedule Maker\Schedule Maker\bin\Debug\MaterialSkin.dll
+D:\Education\Programs\Schedule Maker\Schedule Maker\bin\Debug\MetroFramework.dll
+D:\Education\Programs\Schedule Maker\Schedule Maker\bin\Debug\MaterialSkin.pdb
+D:\Education\Programs\Schedule Maker\Schedule Maker\obj\Debug\Schedule_Maker.Import_Subject_Offer.resources
+D:\Education\Programs\Schedule Maker\Schedule Maker\obj\Debug\Schedule_Maker.Main.resources
+D:\Education\Programs\Schedule Maker\Schedule Maker\obj\Debug\Schedule_Maker.Properties.Resources.resources
+D:\Education\Programs\Schedule Maker\Schedule Maker\obj\Debug\Schedule Maker.csproj.GenerateResource.Cache
+D:\Education\Programs\Schedule Maker\Schedule Maker\obj\Debug\Schedule Maker.exe
+D:\Education\Programs\Schedule Maker\Schedule Maker\obj\Debug\Schedule Maker.pdb
+D:\Education\Programs\Schedule Maker\Schedule Maker\obj\Debug\Schedule Maker.csprojResolveAssemblyReference.cache
+D:\Education\Programs\Schedule Maker\Schedule Maker\obj\Debug\Schedule_Maker.Schedules.resources
+D:\Education\Programs\Schedule Maker_MYSQL\Schedule Maker\bin\Debug\Schedule Maker.exe.config
+D:\Education\Programs\Schedule Maker_MYSQL\Schedule Maker\bin\Debug\Schedule Maker.exe
+D:\Education\Programs\Schedule Maker_MYSQL\Schedule Maker\bin\Debug\Schedule Maker.pdb
+D:\Education\Programs\Schedule Maker_MYSQL\Schedule Maker\bin\Debug\MaterialSkin.dll
+D:\Education\Programs\Schedule Maker_MYSQL\Schedule Maker\bin\Debug\MetroFramework.dll
+D:\Education\Programs\Schedule Maker_MYSQL\Schedule Maker\bin\Debug\MySql.Data.dll
+D:\Education\Programs\Schedule Maker_MYSQL\Schedule Maker\bin\Debug\MaterialSkin.pdb
+D:\Education\Programs\Schedule Maker_MYSQL\Schedule Maker\bin\Debug\MySql.Data.xml
+D:\Education\Programs\Schedule Maker_MYSQL\Schedule Maker\obj\Debug\Schedule_Maker.Import_Subject_Offer.resources
+D:\Education\Programs\Schedule Maker_MYSQL\Schedule Maker\obj\Debug\Schedule_Maker.Login.resources
+D:\Education\Programs\Schedule Maker_MYSQL\Schedule Maker\obj\Debug\Schedule_Maker.Main.resources
+D:\Education\Programs\Schedule Maker_MYSQL\Schedule Maker\obj\Debug\Schedule_Maker.Properties.Resources.resources
+D:\Education\Programs\Schedule Maker_MYSQL\Schedule Maker\obj\Debug\Schedule_Maker.Register.resources
+D:\Education\Programs\Schedule Maker_MYSQL\Schedule Maker\obj\Debug\Schedule_Maker.Schedules.resources
+D:\Education\Programs\Schedule Maker_MYSQL\Schedule Maker\obj\Debug\Schedule Maker.csproj.GenerateResource.Cache
+D:\Education\Programs\Schedule Maker_MYSQL\Schedule Maker\obj\Debug\Schedule Maker.exe
+D:\Education\Programs\Schedule Maker_MYSQL\Schedule Maker\obj\Debug\Schedule Maker.pdb
+D:\Education\Programs\Schedule Maker v1.0\Schedule Maker_MYSQL\Schedule Maker\bin\Debug\Schedule Maker.exe.config
+D:\Education\Programs\Schedule Maker v1.0\Schedule Maker_MYSQL\Schedule Maker\bin\Debug\Schedule Maker.exe
+D:\Education\Programs\Schedule Maker v1.0\Schedule Maker_MYSQL\Schedule Maker\bin\Debug\Schedule Maker.pdb
+D:\Education\Programs\Schedule Maker v1.0\Schedule Maker_MYSQL\Schedule Maker\bin\Debug\MySql.Data.dll
+D:\Education\Programs\Schedule Maker v1.0\Schedule Maker_MYSQL\Schedule Maker\bin\Debug\MySql.Data.xml
+D:\Education\Programs\Schedule Maker v1.0\Schedule Maker_MYSQL\Schedule Maker\obj\Debug\Schedule_Maker.Import_Subject_Offer.resources
+D:\Education\Programs\Schedule Maker v1.0\Schedule Maker_MYSQL\Schedule Maker\obj\Debug\Schedule_Maker.Login.resources
+D:\Education\Programs\Schedule Maker v1.0\Schedule Maker_MYSQL\Schedule Maker\obj\Debug\Schedule_Maker.Main.resources
+D:\Education\Programs\Schedule Maker v1.0\Schedule Maker_MYSQL\Schedule Maker\obj\Debug\Schedule_Maker.Properties.Resources.resources
+D:\Education\Programs\Schedule Maker v1.0\Schedule Maker_MYSQL\Schedule Maker\obj\Debug\Schedule_Maker.Register.resources
+D:\Education\Programs\Schedule Maker v1.0\Schedule Maker_MYSQL\Schedule Maker\obj\Debug\Schedule_Maker.Schedules.resources
+D:\Education\Programs\Schedule Maker v1.0\Schedule Maker_MYSQL\Schedule Maker\obj\Debug\Schedule Maker.csproj.GenerateResource.Cache
+D:\Education\Programs\Schedule Maker v1.0\Schedule Maker_MYSQL\Schedule Maker\obj\Debug\Schedule Maker.exe
+D:\Education\Programs\Schedule Maker v1.0\Schedule Maker_MYSQL\Schedule Maker\obj\Debug\Schedule Maker.pdb
